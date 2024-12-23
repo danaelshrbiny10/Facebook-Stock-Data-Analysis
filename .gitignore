@@ -172,5 +172,7 @@ cython_debug/
 
 
 # Hide PPT files
-/src/prentation/*.ppt
-/src/prentation/*.pptx
+presentation/*.ppt
+presentation/*.pptx
+
+src/presentation
