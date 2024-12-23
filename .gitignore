@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Hide PPT files
+/src/prentation/*.ppt
+/src/prentation/*.pptx
