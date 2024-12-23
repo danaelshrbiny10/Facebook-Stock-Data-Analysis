@@ -175,4 +175,4 @@ cython_debug/
 presentation/*.ppt
 presentation/*.pptx
 
-src/presentation
+src/presentation/
